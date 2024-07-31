@@ -6,6 +6,7 @@
 export default {
   name: 'HomeView.vue',
   components: {
+   
 
   },
   data() {
