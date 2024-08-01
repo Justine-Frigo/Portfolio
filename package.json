@@ -9,10 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "core-js": "^3.37.1",
     "particles.js": "^2.0.0",
     "pinia": "^2.1.7",
+    "regenerator-runtime": "^0.14.1",
     "vue": "^3.4.29",
-    "vue-router": "^4.3.3"
+    "vue-router": "^4.3.3",
+    "vue-writer": "^2.0.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",

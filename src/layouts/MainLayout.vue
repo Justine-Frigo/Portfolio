@@ -7,7 +7,7 @@
       <router-link :to="{ name: 'Contact' }" class="hover:border-b-2 hover:border-indigo-600">Contact</router-link>
     </nav>
   </header>
-  <main class="flex-1 w-4/5 m-auto flex flex-col justify-center">
+  <main class="w-full min-h-screen flex flex-col ">
     <router-view></router-view>
   </main>
   <!-- <footer>

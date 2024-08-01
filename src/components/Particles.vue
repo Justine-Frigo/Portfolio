@@ -1,5 +1,5 @@
 <template>
-  <div id="particles-js" class="h-full bg-zinc-950 absolute left-0 top-0 -z-[5] w-full"></div>
+  <div id="particles-js" class="h-screen bg-zinc-950 absolute left-0 top-0 -z-[5] w-full"></div>
 </template>
 
 <script>
