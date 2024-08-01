@@ -1,6 +1,5 @@
 <template>
-  <div id="particles-js" class="h-full bg-slate-950">
-  </div>
+  <div id="particles-js" class="h-full bg-slate-950 absolute -z-[5] w-full"></div>
 </template>
 
 <script>

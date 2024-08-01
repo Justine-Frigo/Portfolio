@@ -7,7 +7,7 @@
       <router-link :to="{ name: 'Contact' }">Contact</router-link>
     </nav>
   </header>
-  <main>
+  <main class="flex-1">
     <router-view></router-view>
   </main>
   <!-- <footer>

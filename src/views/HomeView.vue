@@ -1,6 +1,10 @@
-
 <template>
-  <Particles/>
+  <section>
+    <Particles />
+    <span class=" text-white">
+      coucou
+    </span>
+  </section>
 </template>
 <script>
 
@@ -10,7 +14,6 @@ export default {
   name: 'HomeView.vue',
   components: {
     Particles,
-
   },
   data() {
     return {}
