@@ -1,19 +1,19 @@
 <template>
   <section>
     <Particles />
-    <span class=" text-white">
-      coucou
-    </span>
+    <Typewriter />
   </section>
 </template>
 <script>
 
 import Particles from '@/components/Particles.vue';
+import Typewriter from '@/components/Typewriter.vue';
 
 export default {
   name: 'HomeView.vue',
   components: {
     Particles,
+    Typewriter,
   },
   data() {
     return {}

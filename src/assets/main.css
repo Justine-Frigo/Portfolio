@@ -4,4 +4,8 @@
 @tailwind components;
 @tailwind utilities;
 
+.router-link-exact-active {
+    @apply border-b-2 border-indigo-600;
+  }
+
 
