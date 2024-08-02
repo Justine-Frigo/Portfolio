@@ -50,13 +50,13 @@ export default {
 
 .container .text {
   position: relative;
-  font-size: 60px;
+  font-size: 54px;
   font-weight: 700;
 }
 
 .is-typed {
   font-family: 'Poppins', sans-serif;
-  font-size: 60px;
+  font-size: 54px;
   font-weight: 700;
   color: #4f46e5;
 

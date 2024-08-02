@@ -33,8 +33,8 @@
 .hex {
   display: flex;
   position: relative;
-  width: 340px;
-  height: 365px;
+  width: 310px;
+  height: 335px;
   background-color: #424242;
   -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
   clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
