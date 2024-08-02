@@ -10,9 +10,9 @@
   <main class="w-full min-h-screen flex flex-col ">
     <router-view></router-view>
   </main>
-  <!-- <footer>
-      &copy; Justine Frigo
-    </footer> -->
+  <footer class="bg-zinc-900 text-slate-50 p-2 text-center">
+      &copy; 2024 - Justine Frigo
+    </footer>
 </template>
 
 <script>

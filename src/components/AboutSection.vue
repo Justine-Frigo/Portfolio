@@ -25,6 +25,7 @@
             skills) to excel in this new field. However, I also strive to leverage my <span
             class="text-indigo-600 font-extrabold">previous experience</span> in my future
             new profession.</p>
+        
     </div>
 
 </template>
