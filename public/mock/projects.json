@@ -4,7 +4,7 @@
         "name": "Cogip Frontend",
         "technos": ["VueJS", "Vite", "TailwindCSS"],
         "short_description": "The Cogip Project is the work and collaboration of backend and frontend developpers who worked together to create a web application which offers companies and their invoices management features.",
-        "img": "../src/assets/screen-projects/cogip-front.png",
+        "img": "../screen-projects/cogip-front.png",
         "code": "https://github.com/Justine-Frigo/Cogip_project_frontend",
         "demo": ""
 
@@ -15,7 +15,7 @@
         "name": "Cogip API",
         "technos": ["PHP", "OOP", "SQL"],
         "short_description": "The Cogip Project is the work and collaboration of backend and frontend developpers who worked together to create a web application which offers companies and their invoices management features.",
-        "img": "../src/assets/screen-projects/cogip-API.png",
+        "img": "../screen-projects/cogip-API.png",
         "code": "https://github.com/Justine-Frigo/Cogip_Project",
         "demo": ""
        
@@ -26,7 +26,7 @@
         "name": "Weather App",
         "technos": ["HTML", "SCSS", "JavaScript"],
         "short_description": "Simple web application that allows users to check the current weather conditions of any location worldwide. Users can enter the name of a city or town, and the app will display the current temperature, weather conditions (e.g., sunny, rainy, cloudy), and other relevant information.",
-        "img": "../src/assets/screen-projects/weather-app.png",
+        "img": "../screen-projects/weather-app.png",
         "code": "https://github.com/Justine-Frigo/Weather-app",
         "demo": "https://justine-frigo.github.io/Weather-app/"
         
@@ -37,7 +37,7 @@
         "name": "Pokedex",
         "technos": ["PHP", "SQL", "SCSS", "JavaScript"],
         "short_description": "web application that displays a list of Pokémon, details of the selected Pokémon, and includes an authentication system.",
-        "img": "../src/assets/screen-projects/pokedex.png",
+        "img": "../screen-projects/pokedex.png",
         "code": "https://github.com/Justine-Frigo/Pokedex",
         "demo": ""
        
@@ -48,7 +48,7 @@
         "name": "Project Manager",
         "technos": ["HTML", "SCSS", "JavaScript"],
         "short_description": "Web application designed to help users manage their projects efficiently. It provides a user-friendly interface for organizing tasks and tracking project progress.",
-        "img": "../src/assets/screen-projects/project-manager.png",
+        "img": "../screen-projects/project-manager.png",
         "demo": "https://justine-frigo.github.io/Project-manager/",
         "code": "https://github.com/Justine-Frigo/Project-manager"
     },
@@ -58,7 +58,7 @@
         "name": "Random Quote Generator",
         "technos": ["HTML", "SCSS", "JavaScript"],
         "short_description": "Simple web application who displays a random quote each time the user interacts with the application, providing an engaging way to learn web development fundamentals.",
-        "img": "../src/assets/screen-projects/random-quote.png",
+        "img": "../screen-projects/random-quote.png",
         "demo": "https://justine-frigo.github.io/random-quote/",
         "code": "https://github.com/Justine-Frigo/random-quote"
     },
@@ -68,7 +68,7 @@
         "name": "The Collection",
         "technos": ["HTML", "SCSS", "JavaScript"],
         "short_description": " This project involves creating a website featuring a collection of around ten cards on a chosen theme, such as favorite music, films, recipes, etc. This particular project presents 10 books that the author has read and enjoyed.",
-        "img": "../src/assets/screen-projects/collection.png",
+        "img": "../screen-projects/collection.png",
         "demo": "https://justine-frigo.github.io/collection/",
         "code": "https://github.com/Justine-Frigo/collection"
     },
@@ -78,7 +78,7 @@
         "name": "AZ-store",
         "technos": ["PHP", "SCSS", "JavaScript"],
         "short_description": "Online shoe store with product display, shopping cart, payment form and contact page.",
-        "img": "../src/assets/screen-projects/az-store.png",
+        "img": "../screen-projects/az-store.png",
         "demo": "",
         "code": "https://github.com/Justine-Frigo/AZ-store"
     },
@@ -88,7 +88,7 @@
         "name": "To-do list",
         "technos": ["HTML", "SCSS", "JavaScript"],
         "short_description": "Simple web application that allows users to manage tasks through a clean and responsive interface.",
-        "img": "../src/assets/screen-projects/to-do-list.png",
+        "img": "../screen-projects/to-do-list.png",
         "demo": "https://justine-frigo.github.io/To-do-list/",
         "code": "https://github.com/Justine-Frigo/To-do-list"
     }
