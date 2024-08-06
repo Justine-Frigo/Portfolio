@@ -1,10 +1,14 @@
 <template>
+  <TimelineComponent/>
 </template>
 <script>
 
+import TimelineComponent from '@/components/TimelineComponent.vue';
+
 export default {
-  name: 'ContactView.vue',
+  name: 'TimelineView.vue',
   components: {
+    TimelineComponent,
 
   },
   data() {
