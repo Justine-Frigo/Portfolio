@@ -31,17 +31,17 @@
             <div class="flex flex-row items-center gap-2">
             <a href="https://github.com/Justine-Frigo" target="_blank"><img
                     src="../assets/img/github-brands-solid.svg"></a>
-                    <p>Github</p>
+                    <a href="https://github.com/Justine-Frigo" target="_blank">Github</a>
                 </div>
                 <div class="flex flex-row items-center gap-2">
             <a href="https://www.linkedin.com/in/justine-frigo/" target="_blank"><img
                     src="../assets/img/linkedin-brands-solid.svg"></a>
-                    <p>Linkedin</p>
+                    <a href="https://www.linkedin.com/in/justine-frigo/" target="_blank">Linkedin</a>
                     </div>
 
             <div class="flex flex-row items-center gap-2">
                 <a href="mailto:justine0912@gmail.com" target="_blank"><img src="../assets/img/envelope-solid.svg"></a>
-                <p>justine0912@gmail.com</p>
+                <a href="mailto:justine0912@gmail.com" target="_blank">justine0912@gmail.com</a>
             </div>
         </div>
     </div>
