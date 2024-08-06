@@ -1,8 +1,8 @@
 <template>
     <h2 class="text-center text-4xl font-bold text-slate-50 mt-10 mb-10">Skills & Tools</h2>
     <article class="m-auto">
-        <p class="text-xl text-slate-50 text-justify mb-10">I have a strong foundation in the following languages :</p>
-        <div class="flex flex-row gap-5 mb-16">
+        <p class="title text-xl text-slate-50 text-justify mb-10">I have a strong foundation in the following languages :</p>
+        <div class="skills flex flex-row gap-5 mb-16">
             <div class="w-max flex flex-col items-center text-orange-500 shadow-sm shadow-orange-400 rounded-lg">
                 <svg class="fill-orange-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
                     <path
@@ -48,9 +48,9 @@
                 <p>MySQL</p>
             </div>
         </div>
-        <p class="text-xl text-slate-50 text-justify mt-10 mb-10">I also know how to work with the following frameworks :
+        <p class="title text-xl text-slate-50 text-justify mt-10 mb-10">I also know how to work with the following frameworks :
         </p>
-        <div class="flex flex-row gap-5 mb-16">
+        <div class="skills flex flex-row gap-5 mb-16">
             <div class="w-max flex flex-col items-center text-sky-400 shadow-sm shadow-sky-300 rounded-lg">
                 <svg class="fill-sky-400" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 512"
                     fill="currentColor">
@@ -69,8 +69,8 @@
                 <p>VueJS</p>
             </div>
         </div>
-        <p class="text-xl text-slate-50 text-justify mt-10 mb-10">Finally, I'm comfortable enough with those tools :</p>
-        <div class="flex flex-row gap-5 mb-10">
+        <p class="title text-xl text-slate-50 text-justify mt-10 mb-10">Finally, I'm comfortable enough with those tools :</p>
+        <div class="skills flex flex-row gap-5 mb-10">
             <div class="w-max flex flex-col items-center text-rose-900 shadow-sm shadow-rose-800 rounded-lg">
                 <svg class="fill-rose-900" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
                     <path
@@ -133,5 +133,22 @@ export default {
 svg {
     width: 100px;
     height: 100px;
+}
+
+@media screen and (max-width: 600px){
+
+    article{
+        width: 100%;
+    }
+   .title{
+    text-align: center;
+   }
+
+    .skills{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
 }
 </style>

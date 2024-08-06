@@ -27,7 +27,7 @@
             new profession.</p>
            
         <h2 class="text-center text-4xl font-bold text-indigo-600 mb-10">Contact</h2>
-        <div class="flex flex-row items-center gap-16 mb-10">
+        <div class="socials flex flex-row items-center gap-16 mb-10">
             <div class="flex flex-row items-center gap-2">
             <a href="https://github.com/Justine-Frigo" target="_blank"><img
                     src="../assets/img/github-brands-solid.svg"></a>
@@ -69,5 +69,14 @@ export default {
 img {
     width: 46px;
     height: 46px;
+}
+
+@media screen and (max-width: 600px) {
+
+    .socials{
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+    }
 }
 </style>

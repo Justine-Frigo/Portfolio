@@ -220,5 +220,44 @@
     border-right: 15px solid #f1f5f9;
     left: -15px;
 }
+
+@media screen and (max-width: 600px){
+    
+    .timeline{
+        margin: 50px auto;
+    }
+
+    .timeline::after{
+        left: 31px;
+    }
+
+    .container{
+        width: 100%;
+        padding-left: 80px;
+        padding-right: 25px;
+    }
+
+    .text-box{
+        font-size: 13px;
+    }
+
+    .text-box small{
+        margin-bottom: 10px;
+    }
+
+    .right-container{
+        left: 0;
+    }
+
+    .left-container img, .right-container img{
+        left: 10px;
+    }
+
+    .left-container-arrow, .right-container-arrow{
+        border-right: 15px solid #f1f5f9;
+        border-left: 0;
+        left: -15px;
+    }
+}
  
 </style>

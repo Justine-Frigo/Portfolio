@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-row items-center justify-around">
+  <div class="responsive-container flex flex-row items-center justify-around">
     <div class="container text-slate-50 m-auto">
       <span class="text first-text">Hi, </span><br>
       <span class="text first-text">I'm Justine </span><br>
@@ -65,4 +65,25 @@ export default {
 .container .text.first-text {
   color: #f8fafc;
 }
+
+@media screen and (max-width: 600px) {
+  .responsive-container {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .container {
+    width: 100%;
+    text-align: center;
+    
+  }
+
+  .container .text{
+    font-size: 40px;
+  }
+
+  .is-typed{
+    font-size: 40px;
+  }
+}
+
 </style>

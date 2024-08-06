@@ -40,4 +40,11 @@
   clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 }
 
+@media screen and (max-width: 600px) {
+  .hex{
+    width: 280px;
+    height: 305px;
+    margin-bottom: 30px;
+  }
+}
 </style>
