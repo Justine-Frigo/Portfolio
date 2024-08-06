@@ -1,29 +1,69 @@
-# portfolio
+# Portfolio
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a portfolio developed with Vue 3 and Vite. It showcases my projects and skills in an elegant and professional manner.
 
-## Recommended IDE Setup
+## Prerequisites
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Node.js
+- npm
 
-## Customize configuration
+## Installation
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+1. Clone the repository:
 
-## Project Setup
+    ```bash
+    git clone https://github.com/Justine-Frigo/Portfolio.git
+    ```
 
-```sh
-npm install
-```
+2. Navigate to the project directory:
 
-### Compile and Hot-Reload for Development
+    ```bash
+    cd Portfolio
+    ```
 
-```sh
+3. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+## Development
+
+To compile and start the development server with hot reloading:
+
+```bash
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Production
 
-```sh
+To build the project for production:
+
+```bash
 npm run build
 ```
+
+## Recommended IDE Setup
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- Extension [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur)
+
+## Customize Configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/) for more details.
+
+## Project Structure
+
+- src/: Contains the project source files.
+- public/: Contains static files.
+- mock/: Contains mock data for testing.
+
+## Technologies Used
+
+- Vue 3
+- Vite
+- Tailwind CSS
+
+## Authors
+
+Justine Frigo
