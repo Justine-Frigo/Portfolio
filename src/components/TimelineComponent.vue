@@ -1,4 +1,5 @@
 <template>
+    <h2 class="text-center text-4xl font-bold text-slate-50 mt-10 mb-10">The journey begins...</h2>
      <div class="timeline">
        <div class="container left-container">
         <img src="../assets/images/book.png">

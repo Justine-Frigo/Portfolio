@@ -10,23 +10,42 @@
                 class="text-indigo-600 font-extrabold">full-stack</span> in the future.</p>
         <h2 class="text-center text-4xl font-bold text-indigo-600 mb-10">Education</h2>
         <p class="text-justify text-xl mb-10">I completed an intensive training program at <span
-            class="text-indigo-600 font-extrabold">BeCode</span>, a Belgian non-profit
+                class="text-indigo-600 font-extrabold">BeCode</span>, a Belgian non-profit
             organization dedicated to training for digital professions. <span
-            class="text-indigo-600 font-extrabold">BeCode</span> stands out for its active, <span
-            class="text-indigo-600 font-extrabold">project-based
-            pedagogy</span>, offering practical and collaborative immersion in web development and other digital disciplines.
+                class="text-indigo-600 font-extrabold">BeCode</span> stands out for its active, <span
+                class="text-indigo-600 font-extrabold">project-based
+                pedagogy</span>, offering practical and collaborative immersion in web development and other digital
+            disciplines.
         </p>
         <h2 class="text-center text-4xl font-bold text-indigo-600 mb-10">Professional Objectives</h2>
         <p class="text-justify text-xl mb-10">I am currently seeking a <span
-            class="text-indigo-600 font-extrabold">3-month internship</span> starting around October 14th.
-            During my time at <span
-            class="text-indigo-600 font-extrabold">BeCode</span> and beyond, I am motivated to acquire all the necessary <span
-            class="text-indigo-600 font-extrabold">skills</span> (technical or soft
+                class="text-indigo-600 font-extrabold">3-month internship</span> starting around October 14th.
+            During my time at <span class="text-indigo-600 font-extrabold">BeCode</span> and beyond, I am motivated to
+            acquire all the necessary <span class="text-indigo-600 font-extrabold">skills</span> (technical or soft
             skills) to excel in this new field. However, I also strive to leverage my <span
-            class="text-indigo-600 font-extrabold">previous experience</span> in my future
+                class="text-indigo-600 font-extrabold">previous experience</span> in my future
             new profession.</p>
-        
+           
+        <h2 class="text-center text-4xl font-bold text-indigo-600 mb-10">Contact</h2>
+        <div class="flex flex-row items-center gap-16 mb-10">
+            <div class="flex flex-row items-center gap-2">
+            <a href="https://github.com/Justine-Frigo" target="_blank"><img
+                    src="../assets/img/github-brands-solid.svg"></a>
+                    <p>Github</p>
+                </div>
+                <div class="flex flex-row items-center gap-2">
+            <a href="https://www.linkedin.com/in/justine-frigo/" target="_blank"><img
+                    src="../assets/img/linkedin-brands-solid.svg"></a>
+                    <p>Linkedin</p>
+                    </div>
+
+            <div class="flex flex-row items-center gap-2">
+                <a href="mailto:justine0912@gmail.com"><img src="../assets/img/envelope-solid.svg"></a>
+                <p>justine0912@gmail.com</p>
+            </div>
+        </div>
     </div>
+
 
 </template>
 
@@ -45,5 +64,10 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style></style>
+
+<style scoped>
+img {
+    width: 46px;
+    height: 46px;
+}
+</style>
