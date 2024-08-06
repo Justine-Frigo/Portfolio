@@ -40,7 +40,7 @@
                     </div>
 
             <div class="flex flex-row items-center gap-2">
-                <a href="mailto:justine0912@gmail.com"><img src="../assets/img/envelope-solid.svg"></a>
+                <a href="mailto:justine0912@gmail.com" target="_blank"><img src="../assets/img/envelope-solid.svg"></a>
                 <p>justine0912@gmail.com</p>
             </div>
         </div>
