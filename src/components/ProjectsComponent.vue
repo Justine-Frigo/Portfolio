@@ -5,7 +5,7 @@
       <article
         class="w-full h-full mx-auto justify-center sm:grid sm:grid-cols-2 lg:grid-cols-3 gap-16 flex flex-col text-center mt-10 mb-10">
         <div
-          class="shadow-md shadow-zinc-900 rounded-lg w-full mx-auto bg-zinc-800 h-full flex flex-col justify-around"
+          class="shadow-md shadow-zinc-900 rounded-lg w-full mx-auto bg-zinc-800/80 h-full flex flex-col justify-around"
           v-for="(project, index) in filteredProjects" :key="index">
           <h3 class="text-slate-50 text-xl font-semibold py-2">{{ project.name }}</h3>
           <img :src="project.img" class="w-full h-40 object-cover">
