@@ -22,7 +22,7 @@ export default {
   data() {
     return {
       arr: [
-        'Web Dev', 'Frontend Dev', 'Vue.js Dev'
+        'Frontend Dev', 'Vue.js learner', 'React learner'
       ]
     }
   },
